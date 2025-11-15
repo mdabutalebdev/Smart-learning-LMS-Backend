@@ -1,6 +1,7 @@
  
 import mongoose from "mongoose"
 import app from "./index.js";
+import dotenv from "dotenv"
 main().catch(err => console.log(err));
 const port = 5000
 async function main() {
