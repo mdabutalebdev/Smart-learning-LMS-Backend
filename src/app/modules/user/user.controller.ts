@@ -35,7 +35,7 @@ try{
 }catch(error:any){
     res.status(500).json({
         success: false,
-        message: "Please check your all field & try again",
+        message: "User not found!",
         error
     })
 }
