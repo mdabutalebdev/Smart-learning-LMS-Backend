@@ -29,7 +29,7 @@ try{
 
   res.status(200).json({
      success: true,
-     message: "User Create Successfull",
+     message: "User get Successfull",
      data : User
   })
 }catch(error:any){
