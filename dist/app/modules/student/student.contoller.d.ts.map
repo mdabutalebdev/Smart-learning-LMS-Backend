@@ -1,1 +1,1 @@
-{"version":3,"file":"student.contoller.d.ts","sourceRoot":"","sources":["../../../../src/app/modules/student/student.contoller.ts"],"names":[],"mappings":""}
+{"version":3,"file":"student.contoller.d.ts","sourceRoot":"","sources":["../../../../src/app/modules/student/student.contoller.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,SAAS,CAAC;AAyB5C,eAAO,MAAM,iBAAiB;mCApBY,OAAO,OAAO,QAAQ;CAsB/D,CAAA"}
